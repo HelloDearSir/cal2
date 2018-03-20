@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Generating code
+d:\binary\binary\source.cpp : fatal error C1083: Cannot open compiler intermediate file: 'D:\binary\Release\binary.ipdb': Permission denied
+LINK : fatal error LNK1257: code generation failed
